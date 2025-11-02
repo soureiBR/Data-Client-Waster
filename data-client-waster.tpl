@@ -294,7 +294,7 @@ const method = getRequestMethod();
 const isPathAllowed = data.path.some(item => item.path === path);
 
 if (!isPathAllowed) {
-  logToConsole('Path não está autorizado' + path);
+  logToConsole('Path não está autorizado: ' + path);
   return;
 }
 
