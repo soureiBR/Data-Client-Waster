@@ -318,7 +318,6 @@ if (getType(event) !== 'object') {
   return;
 }
 
-event.source = 'waster';
 event.logToConsole = true;
 
 runContainer(event, () => {
