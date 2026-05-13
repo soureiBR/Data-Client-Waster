@@ -5,10 +5,10 @@
   "id": "cvt_temp_public_id",
   "version": 1,
   "securityGroups": [],
-  "displayName": "Data Client Waster",
+  "displayName": "Data Client Wascer",
   "brand": {
     "id": "brand_dummy",
-    "displayName": "Waster"
+    "displayName": "Wascer"
   },
   "description": "Use this Client as a mapper from Request Data to Event Data.",
   "containerContexts": [
