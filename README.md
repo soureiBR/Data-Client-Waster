@@ -6,7 +6,7 @@ Cliente customizado para Google Tag Manager Server-side que atua como mapper ent
 
 Esta tag permite:
 
-- **Controlar quais paths** são aceitos pelo servidor GTM (ex: `/data`, `/erik`, `/top`)
+- **Controlar quais paths** são aceitos pelo servidor GTM (ex: `/data`, `/spec`, `/top`)
 - **Mapear dados de requisição** para eventos processáveis pelo container
 - **Configurar respostas customizadas** (JSON, redirecionamentos, erros)
 - **Gerenciar cookies** com opções de HttpOnly e renovação automática
